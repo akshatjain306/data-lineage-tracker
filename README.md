@@ -1,5 +1,13 @@
 # Data Provenance and Lineage Tracking
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+
+<br/>
+
 ## Overview
 This project implements a complete **Data Provenance and Lineage Tracking system**
 using **Python, FastAPI, Pandas, and SQLite**.
